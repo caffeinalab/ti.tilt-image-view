@@ -18,7 +18,7 @@
 	bottom: 40,
 	left: 20,
 	right: 20,
-	height: 24,
+	height: 26,
 	color: '#fff',
 	shadow: {
 		shadowColor: '#000',
@@ -35,7 +35,7 @@
 	bottom: 20,
 	left: 20,
 	right: 20,
-	height: 14,
+	height: 16,
 	color: '#fff',
 	shadow: {
 		shadowColor: '#000',
