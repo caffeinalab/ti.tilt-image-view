@@ -1,4 +1,4 @@
-Facebook Paper tilt-fullscreen | Titanium
+Facebook Paper tilt-fullscreen | Alloy
 ======================================
 **Module ref.** | com.caffeinalab.titanium.tiltimageview
 
