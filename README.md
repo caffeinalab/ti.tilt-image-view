@@ -26,7 +26,7 @@ gittio install com.caffeinalab.titanium.tiltimageview
 #### Via Github
 
 ```
-git clone git@github.com:CaffeinaLab/com.caffeinalab.titanium.tiltimageviewgit app/widgets/com.caffeinalab.titanium.tiltimageview
+git clone git@github.com:CaffeinaLab/com.caffeinalab.titanium.tiltimageview app/widgets/com.caffeinalab.titanium.tiltimageview
 ```
 
 And add in your *config.json*, under `dependencies`:
