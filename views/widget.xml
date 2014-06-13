@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id="index">
+		<ScrollView id="subindex">
+			<ImageView id="main" />
+		</ScrollView>
+		<View id="gradientImage" />
+		<Label text="Titolo" id="mainText" />
+		<Label text="Sottotitolo" id="mainDesc" />
+		<View id="scrollBar" platform="ios">
+			<View id="scrollBarInset" />
+		</View>
+	</Window>
+</Alloy>
