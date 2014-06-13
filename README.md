@@ -1,6 +1,6 @@
-Facebook Paper tilt-fullscreen ImageViewer for Titanium
+Titanium | Facebook Paper tilt-fullscreen
 ======================================
-com.caffeinalab.titanium.tiltimageview
+[Module reference] > com.caffeinalab.titanium.tiltimageview
 
 ### This module emulate the [Facebook Paper](https://www.facebook.com/paper) tilt-fullscreen ImageViewer.
 
