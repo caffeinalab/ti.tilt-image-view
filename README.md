@@ -1,11 +1,12 @@
-com.caffeinalab.titanium.tiltimageview
+Facebook Paper tilt-fullscreen ImageViewer for Titanium
 ======================================
+com.caffeinalab.titanium.tiltimageview
 
 ### This module emulate the [Facebook Paper](https://www.facebook.com/paper) tilt-fullscreen ImageViewer.
 
-It provide a **scrollable, pinchable, zoomable** and fullscreen ImageViewer.
+It provides a **scrollable, pinchable, zoomable** and fullscreen ImageViewer.
 
-On iOS, it uses the new [ti.coremotion](http://docs.appcelerator.com/titanium/latest/#!/guide/Core_Motion_Module) Titanium module to achieve the natural movement. So, **install the ti.coremotion module** or doesn't work.
+On iOS, it uses the new [ti.coremotion](http://docs.appcelerator.com/titanium/latest/#!/guide/Core_Motion_Module) Titanium module to achieve the natural movement. So you need to **install the ti.coremotion module** or it will not work.
 
 ![image](http://f.cl.ly/items/0P3U2a2A2U0X1J2f2818/Image%202014-06-13%20at%2010.52.10%20AM.png)
 
