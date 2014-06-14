@@ -12,9 +12,12 @@ On iOS 7+, it uses the new [ti.coremotion](http://docs.appcelerator.com/titanium
 
 On Android, due system limitations, the image is not pinchable/zoomable.
 
+*Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
+
+## Original "Facebook Paper" Controller
+
 ![image](http://cl.ly/image/0Q3N35163j0P/title-video.gif)
 
-*Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
 
 ## Screenshot
 
