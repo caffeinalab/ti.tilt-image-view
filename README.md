@@ -11,7 +11,7 @@ The widget is fully compatible with iOS and Android, with different features.
 
 On iOS 7+, it uses the new [ti.coremotion](http://docs.appcelerator.com/titanium/latest/#!/guide/Core_Motion_Module) Titanium module to move the image across your movements. So you need to **install the ti.coremotion module** or this feature will not work.
 
-On Android, because of system limitations, the image is not pinchable/zoomable.
+On Android, due system limitations, the image is not pinchable/zoomable.
 
 ![image](http://f.cl.ly/items/0P3U2a2A2U0X1J2f2818/Image%202014-06-13%20at%2010.52.10%20AM.png)
 
