@@ -14,7 +14,7 @@ On Android, due system limitations, the image is not pinchable/zoomable.
 
 ![image](http://f.cl.ly/items/0P3U2a2A2U0X1J2f2818/Image%202014-06-13%20at%2010.52.10%20AM.png)
 
-### [Watch the demonstration video by Facebook](http://subjc.com/media/2014-02-12-facebook-paper-photo-panner/video/title-video.m4v)
+#### [Watch the demonstration video by Facebook](http://subjc.com/media/2014-02-12-facebook-paper-photo-panner/video/title-video.m4v)
 
 *Thanks to [http://subjc.com/facebook-paper-photo-panner/](SubjC) for making me understand some things about this widget.*
 
