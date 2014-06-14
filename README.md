@@ -16,7 +16,7 @@ On Android, due system limitations, the image is not pinchable/zoomable.
 
 #### [Watch the demonstration video by Facebook](http://subjc.com/media/2014-02-12-facebook-paper-photo-panner/video/title-video.m4v)
 
-*Thanks to [http://subjc.com/facebook-paper-photo-panner/](SubjC) for making me understand some things about this widget.*
+*Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
 
 ## Installation
 
