@@ -2,8 +2,6 @@
 
 ### com.caffeinalab.titanium.tiltimageview
 
-![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
-
 #### This module emulate the [Facebook Paper](https://www.facebook.com/paper) tilt-fullscreen ImageViewer.
 
 It provides a **scrollable, pinchable, zoomable** and fullscreen ImageViewer.
@@ -17,6 +15,11 @@ On Android, due system limitations, the image is not pinchable/zoomable.
 ![image](http://cl.ly/image/0Q3N35163j0P/title-video.gif)
 
 *Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
+
+## Screenshot
+
+![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
+
 
 ## Installation
 
