@@ -66,7 +66,7 @@ $.paperImageView.open();
 
 ## Screenshot
 
-![image](http://f.cl.ly/items/2R3Y2z0w3Z282Y1j0P3g/Screenshot%202014.06.13%2010.48.22.png)
+![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
 
 
 ## Example without the View
