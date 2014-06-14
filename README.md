@@ -2,6 +2,8 @@
 
 ### com.caffeinalab.titanium.tiltimageview
 
+![image](http://cl.ly/image/3p061C463J0F/title-video.gif)
+
 #### This module emulate the [Facebook Paper](https://www.facebook.com/paper) tilt-fullscreen ImageViewer.
 
 It provides a **scrollable, pinchable, zoomable** and fullscreen ImageViewer.
