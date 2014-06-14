@@ -42,23 +42,23 @@ And add in your *config.json*, under `dependencies`:
 
 ## Usage
 
-** Require the widget in an Alloy View **
+Require the widget in an Alloy View
 
 ```xml
 <Widget src="com.caffeinalab.titanium.tiltimageview" id="paperImageView" image="http://lorempixel.com/1024/1024/city" title="This is the title!" />
 ```
 
-** And open when you need in the relative controller **
+And open when you need in the relative controller
 
 ```javascript
 $.paperImageView.open();
 ```
 
-** Args **
+**Args**
 
 * **image**: The image *(String|Blob)*
 
-** Optional args **
+**Optional args**
 
 * **closeOnClick**: Add a listener to close the modal on click over the image
 * **title**: The title to show
