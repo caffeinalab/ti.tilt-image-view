@@ -2,7 +2,7 @@
 
 ### com.caffeinalab.titanium.tiltimageview
 
-![image](http://cl.ly/image/3p061C463J0F/title-video.gif)
+![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
 
 #### This module emulate the [Facebook Paper](https://www.facebook.com/paper) tilt-fullscreen ImageViewer.
 
@@ -14,9 +14,7 @@ On iOS 7+, it uses the new [ti.coremotion](http://docs.appcelerator.com/titanium
 
 On Android, due system limitations, the image is not pinchable/zoomable.
 
-![image](http://f.cl.ly/items/0P3U2a2A2U0X1J2f2818/Image%202014-06-13%20at%2010.52.10%20AM.png)
-
-#### [Watch the demonstration video by Facebook](http://subjc.com/media/2014-02-12-facebook-paper-photo-panner/video/title-video.m4v)
+![image](http://cl.ly/image/0Q3N35163j0P/title-video.gif)
 
 *Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
 
@@ -65,10 +63,6 @@ $.paperImageView.open();
 * **closeOnClick**: Add a listener to close the modal on click over the image
 * **title**: The title to show
 * **subtitle**: The subtitle to show
-
-## Screenshot
-
-![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
 
 
 ## Example without the View
