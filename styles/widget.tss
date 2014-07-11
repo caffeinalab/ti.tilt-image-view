@@ -2,7 +2,9 @@
 	backgroundColor: '#000'
 },
 "#index[platform=ios]":{
-	modal: true
+	modal: true,
+	fullscreen: true,
+	modalTransitionStyle: Ti.UI.iPhone.MODAL_TRANSITION_STYLE_CROSS_DISSOLVE
 },
 "#subindex":{
     disableBounce: true,

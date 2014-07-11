@@ -19,7 +19,7 @@ function getMaxOffset() {
 /*  ============= Init ============= */
 
 if (!args.image) {
-	throw 'Specify almost an image.';
+	throw new Error('Specify almost an image.');
 }
 
 $.main.image = args.image;
@@ -122,6 +122,9 @@ if (OS_IOS) {
 
 if (OS_IOS && args.closeOnClick) {
 	$.subindex.addEventListener('click', close);
+	$.subindex.addEventListener('swipe', function(e) {
+		if (e.direction==='up' || e.direction==='down') close();
+	});
 }
 
 /*  ============= Public interface ============= */
