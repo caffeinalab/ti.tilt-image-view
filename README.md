@@ -1,4 +1,4 @@
-# Facebook Paper tilt-fullscreen | Alloy
+# Facebook Paper tilt-fullscreen
 
 ### com.caffeinalab.titanium.tiltimageview
 
@@ -14,14 +14,12 @@ On Android, due system limitations, the image is not pinchable/zoomable.
 
 *Thanks to [this post by SubjC](http://subjc.com/facebook-paper-photo-panner/) for making me understand some things about this widget.*
 
+![image](http://cl.ly/image/2F1C3h1r0G2c/687474703a2f2f662e636c2e6c792f6974656d732f30653238304232523236323230453152326333682f6f75742e6a7067%20(1)_iphone5s_spacegrey_portrait.png)
+
+
 ## Original "Facebook Paper" Controller
 
 ![image](http://cl.ly/image/0Q3N35163j0P/title-video.gif)
-
-
-## Screenshot
-
-![image](http://f.cl.ly/items/0e280B2R26220E1R2c3h/out.jpg)
 
 
 ## Installation
