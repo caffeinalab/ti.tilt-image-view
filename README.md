@@ -1,4 +1,4 @@
-# Caffeina.TiltImageView
+# Ti.TiltImageView
 
 ### com.caffeinalab.titanium.tiltimageview
 
