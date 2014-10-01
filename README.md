@@ -1,4 +1,4 @@
-# Facebook Paper tilt-fullscreen
+# Caffeina.TiltImageView
 
 ### com.caffeinalab.titanium.tiltimageview
 
