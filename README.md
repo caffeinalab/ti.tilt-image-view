@@ -58,25 +58,20 @@ And open when you need in the relative controller
 $.paperImageView.open();
 ```
 
-**Args**
+**Constructor options**
 
-* **image**: The image *(String|Blob)*
-
-**Optional args**
-
-* **closeOnClick**: Add a listener to close the modal on click over the image
-* **title**: The title to show
-* **subtitle**: The subtitle to show
+* `image (String|Ti.Blob)`: The image to show. Must be a **URL** or a `Ti.Blob`
+* `[closeOnClick] (Boolean, default: true)`: Add a listener to close the modal on the click over the image
+* `[title] (String)`: The title to show on the bottom of the View.
+* `[subtitle] (String)`: The subtitle to show
 
 
 ## Example without the View
 
 ```javascript
-var tilter = Alloy.createWidget('com.caffeinalab.titanium.tiltimageview', {
+Alloy.createWidget('com.caffeinalab.titanium.tiltimageview', {
 	image: "http://lorempixel.com/1024/1024/city",
 	title: "What is this?",
 	subtitle: "Oh, but this is really beautiful!"
-});
-
-tilter.open();
+}).open();
 ```
