@@ -16,7 +16,6 @@ On Android, due system limitations, the image is not pinchable/zoomable.
 
 ![image](http://cl.ly/image/2F1C3h1r0G2c/687474703a2f2f662e636c2e6c792f6974656d732f30653238304232523236323230453152326333682f6f75742e6a7067%20(1)_iphone5s_spacegrey_portrait.png)
 
-
 ## Original "Facebook Paper" Controller
 
 ![image](http://cl.ly/image/0Q3N35163j0P/title-video.gif)
@@ -32,7 +31,7 @@ gittio install com.caffeinalab.titanium.tiltimageview
 
 #### Via Github
 
-Download the latest release, and add in your *config.json*, under `dependencies`:
+Download the latest release, unzip in `app/widgets` and add in your *config.json*, under `dependencies`:
 
 ```json
 "dependencies": {
@@ -41,6 +40,8 @@ Download the latest release, and add in your *config.json*, under `dependencies`
 ```
 
 ## Usage
+
+### In Views
 
 Require the widget in an Alloy View
 
@@ -54,20 +55,33 @@ And open when you need in the relative controller
 $.paperImageView.open();
 ```
 
-**Constructor options**
+### In Controllers
 
-* `image (String|Ti.Blob)`: The image to show. Must be a **URL** or a `Ti.Blob`
-* `[closeOnClick] (Boolean, default: true)`: Add a listener to close the modal on the click over the image
-* `[title] (String)`: The title to show on the bottom of the View.
-* `[subtitle] (String)`: The subtitle to show
-
-
-## Example without the View
+Instance the widget and open it
 
 ```javascript
-Alloy.createWidget('com.caffeinalab.titanium.tiltimageview', {
-	image: "http://lorempixel.com/1024/1024/city",
-	title: "What is this?",
-	subtitle: "Oh, but this is really beautiful!"
-}).open();
+var tilter = Alloy.createWidget('com.caffeinalab.titanium.tiltimageview', { /* constructor options */ });
+tilter.open();
 ```
+
+## Constructor options
+
+#### `image` (String|Ti.Blob)
+The image to show. Must be a **URL** or a `Ti.Blob`
+
+#### `[closeOnClick]` (Boolean, default: `true`)
+Add a listener to close the modal on the click over the image
+
+#### `[title]` (String)
+The title to show on the bottom of the View.
+
+#### `[subtitle]` (String)
+The subtitle to show
+
+## API
+
+#### `open()`
+Open the widget.
+
+#### `close()`
+Close the widget
