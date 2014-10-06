@@ -1,6 +1,6 @@
 {
 	"id": "com.caffeinalab.titanium.tiltimageview",
-	"name": "com.caffeinalab.titanium.tiltimageview",
+	"name": "Ti.TiltImageView",
 	"description" : "Facebook Paper-style Tilt fullscreen Image Viewer",
 	"author": "Flavio De Stefano",
 	"version": "1.0.1",
