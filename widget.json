@@ -1,7 +1,7 @@
 {
 	"id": "com.caffeinalab.titanium.tiltimageview",
 	"name": "Ti.TiltImageView",
-	"description" : "Facebook Paper-style Tilt fullscreen Image Viewer",
+	"description" : "FacebookPaper-style tilt-fullscreen Image viewer widget for Titanium Alloy.",
 	"author": "Flavio De Stefano",
 	"version": "1.0.1",
 	"copyright":"Copyright (c) 2014",
